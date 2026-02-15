@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://kinagol.duckdns.org/sitemap.xml
+Sitemap: https://kinobiz24.pp.ua/sitemap.xml

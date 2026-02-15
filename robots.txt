@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kinobiz24.pp.ua/sitemap.xml
+Sitemap: https://kinobiz24.pp.ua/sitemap_index.xml

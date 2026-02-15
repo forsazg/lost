@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Ãëàâíàÿ ñòðàíèöà -->
+  <!-- Главная страница -->
   <url>
-    <loc>http://kinagol.duckdns.org/</loc>
+    <loc>https://kinobiz24.pp.ua/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Ñòðàíèöà ôèëüìà -->
+  <!-- Страница фильма -->
   <url>
-    <loc>http://kinagol.duckdns.org/smotret-onlain-krik-7-2026-film.html</loc>
+    <loc>https://kinobiz24.pp.ua/smotret-onlain-krik-7-2026-film.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 </urlset>
+

@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://kinobiz24.pp.ua/sitemap.xml
 Sitemap: https://kinobiz24.pp.ua/sitemap_index.xml
+Disallow: /film-krasavica-2026-smotret-onlain-na-kinobiz
+Allow: /film-krasavica-2026-smotret-onlain-na-kinobiz.html
